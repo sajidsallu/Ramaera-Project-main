@@ -1,0 +1,422 @@
+@media (max-width: 516px) {
+    
+    h1 {
+        font-size: 44px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 19px !important;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .home-content p {
+        width: 95%;
+    }
+
+    .social-media ul li a {
+        font-size: 18px;
+    }
+
+    .socialMeida {
+        top: 68%;
+        left: 22px;
+    }
+
+    .home-content button {
+        padding: 9px 28px 9px 28px;
+        font-size: 13px;
+    }
+
+    .Technology {
+        height: auto;
+        margin-bottom: 2rem;
+    }
+
+    .side-gif {
+        height: 50vh;
+        width: 100%;
+    }
+
+
+
+    .v-img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .tech-side-icon {
+        width: 125px;
+        height: 230px;
+    }
+
+    .tech-side-content p {
+        font-size: 12px;
+    }
+
+    .unique-btn a {
+        width: 45%;
+    }
+
+    .Making-section p {
+        padding-right: 0rem;
+    }
+
+
+
+
+    .expansion {
+        height: 40vh;
+    }
+
+    .trangle-icon {
+        width: 200px;
+        height: 180px;
+    }
+
+    .trangle {
+        top: 50%;
+        left: -45%;
+        height: 31vh;
+    }
+
+    .ex-content {
+        width: 90%;
+    }
+
+    .Technology .up-down img,
+    .Technology .up-line img {
+        height: 8vh;
+    }
+    .making-content {
+        margin-top: 3rem;
+    }
+
+
+    /* .header-section,
+    .Technology{
+        overflow: hidden;
+    } */
+
+    .swiper-pagination-vertical.swiper-pagination-bullets, .swiper-vertical>.swiper-pagination-bullets {
+        top: 90% !important;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly !important;
+        width: 100%;
+        z-index: 100;
+    }
+    .swiper-pagination-vertical.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-vertical>.swiper-pagination-bullets .swiper-pagination-bullet {
+        width: 25%;
+        height: 2px;
+    }
+    .swiper {
+        height: 85vh;
+    }
+    .main-content {
+        width: 90%;
+        margin: 0 auto;
+        z-index: 10 !important;
+    }
+
+
+
+    .nav-coll{
+        z-index: 999 !important;
+    }
+    .nav-item button{
+        width: 100%;
+        margin-left: 0;
+    }
+
+
+    .navbar-light .navbar-toggler{
+        border: none;
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: none;
+        font-size: 2rem;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    
+    h1 {
+        font-size: 44px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 19px !important;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .home-content p {
+        width: 95%;
+    }
+
+    .social-media ul li a {
+        font-size: 18px;
+    }
+
+    .socialMeida {
+        top: 68%;
+        left: 22px;
+    }
+
+    .home-content button {
+        padding: 9px 28px 9px 28px;
+        font-size: 13px;
+    }
+
+    .Technology {
+        height: auto;
+        margin-bottom: 2rem;
+    }
+
+    .side-gif {
+        height: 50vh;
+        width: 100%;
+    }
+
+
+
+    .v-img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .tech-side-icon {
+        width: 125px;
+        height: 230px;
+    }
+
+    .tech-side-content p {
+        font-size: 12px;
+    }
+
+    .unique-btn a {
+        width: 45%;
+    }
+
+    .Making-section p {
+        padding-right: 0rem;
+    }
+
+
+
+
+    .expansion {
+        height: 40vh;
+    }
+
+    .trangle-icon {
+        width: 200px;
+        height: 180px;
+    }
+
+    .trangle {
+        top: 50%;
+        left: -45%;
+        height: 31vh;
+    }
+
+    .ex-content {
+        width: 90%;
+    }
+
+    .Technology .up-down img,
+    .Technology .up-line img {
+        height: 8vh;
+    }
+    .making-content {
+        margin-top: 3rem;
+    }
+
+
+    /* .header-section,
+    .Technology{
+        overflow: hidden;
+    } */
+
+    .swiper-pagination-vertical.swiper-pagination-bullets, .swiper-vertical>.swiper-pagination-bullets {
+        top: 90% !important;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly !important;
+        width: 100%;
+        z-index: 100;
+    }
+    .swiper-pagination-vertical.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-vertical>.swiper-pagination-bullets .swiper-pagination-bullet {
+        width: 25%;
+        height: 2px;
+    }
+    .swiper {
+        height: 85vh;
+    }
+    .main-content {
+        width: 90%;
+        margin: 0 auto;
+        z-index: 10 !important;
+    }
+
+
+
+    .nav-coll{
+        z-index: 999 !important;
+    }
+    .nav-item button{
+        width: 100%;
+        margin-left: 0;
+    }
+
+
+    .navbar-light .navbar-toggler{
+        border: none;
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: none;
+        font-size: 2rem;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---responsive min width 769px----- */
+
+@media (max-width: 769px) {
+    
+    h1 {
+        font-size: 44px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 19px !important;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .home-content p {
+        width: 95%;
+    }
+
+    .social-media ul li a {
+        font-size: 18px;
+    }
+
+    .socialMeida {
+        top: 50%;
+        left: 22px;
+    }
+
+    .home-content button {
+        padding: 9px 28px 9px 28px;
+        font-size: 13px;
+    }
+
+    .Technology {
+        height: auto;
+        margin-bottom: 2rem;
+    }
+
+    .side-gif {
+        height: 50vh;
+        width: 100%;
+    }
+
+
+
+    .v-img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .tech-side-icon {
+        width: 125px;
+        height: 200px;
+    }
+
+    .tech-side-content p {
+        font-size: 12px;
+    }
+
+    .unique-btn a {
+        width: 45%;
+    }
+
+    .Making-section p {
+        padding-right: 0rem;
+    }
+}
+
+
+
+
+
+
